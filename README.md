@@ -1,6 +1,6 @@
 # JCA-Net
 This paper was accepted for presentation at ICASSP 2026.
-Audio-visual speech separation (AVSS) 
+Audio-Visual Speech Separation (AVSS) 
 <img width="839" height="419" alt="image" src="https://github.com/user-attachments/assets/11e9bd2f-6329-4722-8e8c-824796fa5c54" />
 # Installation
 pip install torch torchvision<br>
